@@ -1,4 +1,4 @@
-Year,Disaster Type,Associated Dis,Dis Mag Value,Dis Mag Scale,Latitude,Longitude,Total Deaths
+Year,Disaster Type,Associated Dis,DisMagValue,Dis Mag Scale,Latitude,Longitude,Total Deaths
 1902,Earthquake,Tsunami/Tidal wave,8,Richter,14,-91,2000
 1906,Earthquake,Tsunami/Tidal wave,8,Richter,33.05,71.4,20000
 1906,Earthquake,Tsunami/Tidal wave,9,Richter,1.51 N,78.46 W,400
